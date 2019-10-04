@@ -2,7 +2,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Nunito', sans-serif;
-    background-color:   #fafafa; !important;
+    background-color:   #fafafa !important;
 }
 
 html{
@@ -23,7 +23,7 @@ div.home-page .btn {
 }
 
 nav {
-    background-color: #fafafa;;
+    background-color: #fafafa;
     border-top: 1rem solid #B7AC44;
 }
 
@@ -112,7 +112,7 @@ div.how-it-works__text p {
 }
 
 div#support, div#support-img-container {
-    margin-top: 4%;
+    margin-top: 5%;
     padding-left: 5%;
 }
 
