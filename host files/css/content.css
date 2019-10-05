@@ -15,7 +15,8 @@ html{
 
 div.home-page .btn {
     float: right;
-    margin-top: -3rem;
+    margin-top: -4rem;
+    margin-right: 2rem;
     color: #f16821;
     border: 1px solid #f16821;
     outline: none;
@@ -62,7 +63,7 @@ section.main-container p {
 
 .spendless-img {
     width: 90%;
-    margin-left: -1rem;
+    margin-left: -1.3rem;
 }
 
 #support li {
